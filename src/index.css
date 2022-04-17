@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Helvetica Neue,Arial,sans-serif;
+  }
+
+  body {
+      @apply bg-dark;
+      @apply text-gray;
+      @apply overflow-x-hidden;
+
+  }
+}
+
+@layer components {
+    .text-color {
+        color: @apply gray;
+    }
+
+    .bg-color {
+        background-color: @apply dark;
+    }
+
+    .title-color {
+       @apply text-white;
+    }
+
+    .transition {
+        transition: all .2s ease-in-out;
+    }
+
+}
