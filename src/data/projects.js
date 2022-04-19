@@ -5,7 +5,7 @@ const projects = [
         language: 'JavaScript',
         description: 'Personal portfolio website built using React and Tailwind CSS.',
         tags: ['React', 'Tailwind CSS'],
-        url: '#'
+        url: 'https://github.com/iPankajKr/portfolio-react'
     },
     {
         id : '1',
