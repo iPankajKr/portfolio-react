@@ -15,7 +15,7 @@ const Social = () => {
             </div>
             <ul className="flex -mx-[16px] text-white">
                 <li className="mx-[16px] text-white">
-                    <a href="https://www.instagram.com/i.pankajkr/" className="flex items-center" rel="noopener noreferrer" target="_blank">
+                    <a href="https://www.linkedin.com/in/ipankajkr/" className="flex items-center" rel="noopener noreferrer" target="_blank">
                         <AiFillLinkedin className="inline" />
                         <span className="ml-2">LinkedIn</span>
                         <span className="w-[16px] p-[2px] ml-2">
