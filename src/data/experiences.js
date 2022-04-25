@@ -5,7 +5,6 @@ const experiences = [
         title : "Your Company",
         duration : 'From Today',
         description: 'This spot could be yours! I am currently open to hiring. 😄',
-        techStack : ['JavaScript', 'React'],
         isHireCard: true
     },
     {

@@ -1,5 +1,3 @@
-
-
 const ProjectCard = ({title, description, language, tags, url}) => {
   return (
     <article className="my-[8px] transition bg-bgGray md:group-hover:opacity-50 md:hover:!opacity-100 md:hover:scale-[1.1]">
