@@ -9,7 +9,7 @@ const ProjectCard = ({title, description, language, tags, url}) => {
           <p className="mt-[8px]">
               {description}
           </p>
-        <div className="mt-[20px] uppercase text-xs overflow-x-auto overflow-hidden no-scrollbar fade">
+        <div className="mt-[20px] uppercase text-xs overflow-x-auto overflow-hidden no-scrollbar overflow-fade">
           {tags.map((tag) => <span className="border px-2 m-[5px] whitespace-nowrap">{tag}</span>)}
           </div>
         </a>

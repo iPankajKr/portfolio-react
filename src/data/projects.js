@@ -1,19 +1,20 @@
 const projects = [
+    
     {
-        id: '0',
-        title: "Portfolio (This Website)",
-        language: 'JavaScript',
-        description: 'Personal portfolio website built using React and Tailwind CSS.',
-        tags: ['React', 'Tailwind CSS'],
-        url: 'https://github.com/iPankajKr/portfolio-react'
-    },
-    {
-        id : '1',
+        id : '0',
         title : "Tesla Clone",
         language : 'JavaScript',
         description: 'Clone of Tesla website landing page built using React.',
         tags : ['React', 'Redux', 'Styled Components'],
         url: 'https://github.com/iPankajKr/tesla-clone'
+    },
+    {
+        id: '1',
+        title: "Meme Generator",
+        language: 'JavaScript',
+        description: 'Meme genrator app that fetches a random meme image from a remote API and adds your custom text over it.',
+        tags: ['React'],
+        url: 'https://github.com/iPankajKr/meme-generator'
     },
     {
         id : '2',

@@ -43,7 +43,7 @@
         scrollbar-width: none;  /* Firefox */
     }
 
-    .fade {
+    .overflow-fade {
     -webkit-mask-image: linear-gradient(90deg, #202022 90%, transparent);
     }
 
