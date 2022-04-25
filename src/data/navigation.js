@@ -11,8 +11,8 @@ const navigation = [
     },
     {
         id: '2',
-        title: "Articles",
-        url: '#articles'
+        title: "Skills",
+        url: '#skills'
     }
 ]
 
