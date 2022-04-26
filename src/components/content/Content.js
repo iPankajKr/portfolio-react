@@ -1,3 +1,4 @@
+import Footer from "../footer/Footer";
 import ExperienceList from "./Experiences/ExperienceList";
 import ProjectList from "./Projects/ProjectList";
 import SkillList from "./Skills/SkillsList";
@@ -8,6 +9,7 @@ const Content = () => {
         <ProjectList />
         <ExperienceList />
         <SkillList />
+        <Footer />
     </div>
   )
 }
