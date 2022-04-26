@@ -2,17 +2,20 @@ const navigation = [
     {
         id: '0',
         title: 'Projects',
-        url: '#projects'
+        url: '#projects',
+        ref: 'projectsRef'
     },
     {
         id: '1',
         title: 'Experiences',
-        url: '#experiences'
+        url: '#experiences',
+        ref: 'experiencesRef'
     },
     {
         id: '2',
         title: "Skills",
-        url: '#skills'
+        url: '#skills',
+        ref: 'skillsRef'
     }
 ]
 
