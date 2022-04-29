@@ -9,7 +9,7 @@ const NavList = () => {
                 {navList.map((item) => (
                     <li key={item.id} className="md:my-[16px]">
                         <a
-                            className="inline-flex items-center hover:text-white transition group text-color"
+                            className="inline-flex items-center hover:text-white active:text-white transition group text-color"
                             href={item.url}
                         >
                             <span className="text-xs tracking-wide">{item.id}</span>
