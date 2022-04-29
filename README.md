@@ -1,14 +1,13 @@
-# Meme Generator
+# Personal Portfolio website using React
 > Personal portfolio website built using React and Tailwind CSS.
 > Live demo [_here_](https://ipankajkumar.com/). 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
+* [Screenshots](#screenshots) <!-- * [Setup](#setup) -->
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Room for Improvement](#acknowledgement)
 * [Contact](#contact)
 
 
@@ -24,25 +23,18 @@
 <img src="https://github.com/iPankajKr/portfolio-react/blob/master/screenshots/desktop-preview.png?raw=true" alt="Desktop" height="300px"> <img src="https://github.com/iPankajKr/portfolio-react/blob/master/screenshots/phone-preview.png?raw=true" alt="Phone" height="300px">
 
 
-## Setup
+<!-- ## Setup
 - Clone this repository to your local machine
 - Run `npm install`
 - Run `npm start` to launch the web app
-
+ -->
 
 ## Project Status
 Project is: _in progress_
 
 
-## Room for Improvement
-
-Room for improvement:
-- Download feature for meme
-- Draggable text
-
-To do:
-- Implement Canvas to add text over image
-- Add download button for generated meme
+## Acknowledgement
+- Design inspiration: [_NicolasMzrd_](https://dribbble.com/NicolasMzrd)
 
 
 ## Contact
