@@ -34,7 +34,7 @@ Project is: _in progress_
 
 
 ## Acknowledgement
-- Design inspiration: [_NicolasMzrd_](https://dribbble.com/NicolasMzrd)
+Design inspiration: [_NicolasMzrd_](https://dribbble.com/NicolasMzrd)
 
 
 ## Contact
