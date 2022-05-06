@@ -11,7 +11,7 @@ const experiences = [
         id : '1',
         title : "PixelNib",
         duration : 'Nov 2020 - Mar 2022',
-        description: 'Being one of the foremost developers there, I have worked on different projects based on PHP, WordPress, and JavaScript.',
+        description: 'Being one of the early developers there, I have worked on different projects based on WordPress, PHP, and JavaScript.',
         techStack : ['WordPress', 'JavaScript', 'PHP', 'React']
     },
 ]
