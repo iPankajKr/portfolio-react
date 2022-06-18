@@ -17,7 +17,7 @@ const ExperienceList = () => {
                         description={experience.description}
                         duration={experience.duration}
                         techStack={experience.techStack}
-                        isHireCard={experience.isHireCard}  
+                        isCurrent={experience.isCurrent}  
                     />
                 ))}
             </div>

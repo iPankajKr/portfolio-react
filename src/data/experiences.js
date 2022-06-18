@@ -2,16 +2,16 @@ const experiences = [
     
     {
         id : '0',
-        title : "Your Company",
-        duration : 'From Today',
-        description: 'This spot could be yours! I am currently open to hiring. 😄',
-        isHireCard: true
+        title : "Tradelab Technologies",
+        duration : 'May 2022 - Present',
+        description: 'I work as a frontend developer at Tradelab Technologies. My job involves development related to finance and trading platforms. ',
+        isCurrent: true
     },
     {
         id : '1',
         title : "PixelNib",
         duration : 'Nov 2020 - Mar 2022',
-        description: 'Being one of the early developers there, I have worked on different projects based on WordPress, PHP, and JavaScript.',
+        description: 'I have worked on different client projects based on WordPress, PHP, and JavaScript. I have also worked on the company\'s internal tools and systems.',
         techStack : ['WordPress', 'JavaScript', 'PHP', 'React']
     },
 ]
